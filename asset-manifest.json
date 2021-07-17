@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Dyte-assignment/static/css/main.40435898.chunk.css",
+    "main.js": "/Dyte-assignment/static/js/main.46e66822.chunk.js",
+    "main.js.map": "/Dyte-assignment/static/js/main.46e66822.chunk.js.map",
+    "runtime-main.js": "/Dyte-assignment/static/js/runtime-main.7909dd54.js",
+    "runtime-main.js.map": "/Dyte-assignment/static/js/runtime-main.7909dd54.js.map",
+    "static/css/2.5d67255a.chunk.css": "/Dyte-assignment/static/css/2.5d67255a.chunk.css",
+    "static/js/2.7b8676d9.chunk.js": "/Dyte-assignment/static/js/2.7b8676d9.chunk.js",
+    "static/js/2.7b8676d9.chunk.js.map": "/Dyte-assignment/static/js/2.7b8676d9.chunk.js.map",
+    "index.html": "/Dyte-assignment/index.html",
+    "static/css/2.5d67255a.chunk.css.map": "/Dyte-assignment/static/css/2.5d67255a.chunk.css.map",
+    "static/css/main.40435898.chunk.css.map": "/Dyte-assignment/static/css/main.40435898.chunk.css.map",
+    "static/js/2.7b8676d9.chunk.js.LICENSE.txt": "/Dyte-assignment/static/js/2.7b8676d9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Dyte-assignment/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7909dd54.js",
+    "static/css/2.5d67255a.chunk.css",
+    "static/js/2.7b8676d9.chunk.js",
+    "static/css/main.40435898.chunk.css",
+    "static/js/main.46e66822.chunk.js"
+  ]
+}
